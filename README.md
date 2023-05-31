@@ -1,6 +1,3 @@
-<h1>Tribute page dedicated to Namdev Sutar</h1>
+## Tribute page dedicated to Mr. Namdev Sutar(my maternal grandfather), received `The National Award For Teachers in 1997` from then-Indian President K. R. Narayanan.
 
-<h3>Preview:</h3>
-<h2>
-https://nisoojadhav.github.io/namdev-sutar
-</h2>
+### Preview: [Namdev Sutar - a limitless generousity](https://nisoojadhav.github.io/namdev-sutar)
